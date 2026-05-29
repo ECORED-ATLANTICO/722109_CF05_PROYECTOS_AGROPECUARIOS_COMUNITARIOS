@@ -1,19 +1,10 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
+    Name: 'Gestión de proyectos comunitarios y desarrollo rural sostenible.',
+    Description:
+      'Este componente formativo desarrolla herramientas para la gestión de proyectos comunitarios orientados al desarrollo rural sostenible. Aborda la formulación, ejecución y evaluación de iniciativas, promoviendo la participación comunitaria, la organización social y el uso responsable de los recursos naturales, integrando conocimientos teóricos y prácticos para fortalecer el bienestar y la sostenibilidad rural.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      },
-    ],
   },
   menuPrincipal: {
     menu: [
@@ -64,6 +55,18 @@ export default {
         nombreRuta: 'tema5',
         numero: '5',
         titulo: 'Tema 5',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Tema 6',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'Tema 7',
         desarrolloContenidos: true,
       },
     ],
