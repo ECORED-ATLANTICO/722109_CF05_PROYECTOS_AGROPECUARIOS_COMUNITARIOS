@@ -173,6 +173,54 @@
 
     p.mb-5(data-aos="zoom-in-right") Generalmente, las organizaciones comunitarias cuentan con los siguientes órganos de dirección:
 
+    TabsA.color-secundario.mb-3.uno
+      .tarjeta.color-secundario-10.p-5(titulo="Asamblea general")
+        .row.justify-content-center.align-items-center.mb-0
+          .col-12.col-lg-12.mb-0
+            p.mb-3 Está conformada por todos los integrantes o asociados y permite analizar necesidades, definir acuerdos y orientar las acciones de la organización.
+            p.mb-0 En este espacio se discuten temas relacionados con proyectos productivos, manejo de recursos, elección de representantes y fortalecimiento comunitario.
+      .tarjeta.color-secundario-10.p-5(titulo="Junta directiva")
+        .row.justify-content-center.align-items-center.mb-0
+          .col-12.col-lg-12.mb-0
+            p.mb-3 La junta directiva corresponde al grupo de personas encargadas de coordinar, administrar y orientar el funcionamiento de la organización comunitaria.
+            p.mb-0 Generalmente está conformada por:
+            ul.lista-ul.mb-0
+              li
+                i.lista-ul__vineta Presidente.
+              li
+                i.lista-ul__vineta Vicepresidente.
+              li
+                i.lista-ul__vineta Secretario.
+              li
+                i.lista-ul__vineta Tesorero.
+              li
+                i.lista-ul__vineta Vocales o coordinadores.
+      .tarjeta.color-secundario-10.p-5(titulo="Representante legal")
+        .row.justify-content-center.align-items-center.mb-0
+          .col-12.col-lg-12.mb-0
+            p.mb-0 El representante legal es la persona encargada de representar oficialmente a la organización ante entidades públicas, privadas y comunitarias. Su función principal consiste en realizar gestiones administrativas, firmar documentos y coordinar acciones relacionadas con proyectos y procesos organizativos.
+      .tarjeta.color-secundario-10.p-5(titulo="Comités de trabajo")
+        .row.justify-content-center.align-items-center.mb-0
+          .col-12.col-lg-12.mb-0
+            p.mb-3 Son grupos organizados dentro de la comunidad que se encargan de desarrollar actividades específicas relacionadas con los objetivos de la organización.
+            p.mb-0 Comités más comunes:
+            ul.lista-ul.mb-0
+              li
+                i.lista-ul__vineta Comité de producción. 
+              li
+                i.lista-ul__vineta Comité ambiental. 
+              li
+                i.lista-ul__vineta Comité de comercialización. 
+              li
+                i.lista-ul__vineta Comité financiero. 
+              li
+                i.lista-ul__vineta Comité de convivencia y participación.
+      .tarjeta.color-secundario-10.p-5(titulo="Integrantes o asociados")
+        .row.justify-content-center.align-items-center.mb-0
+          .col-12.col-lg-12.mb-0
+            p.mb-3 Son las personas que conforman la organización comunitaria y participan en las actividades, decisiones y procesos colectivos.
+            p.mb-0 Representan la base principal de la organización y contribuyen al desarrollo de las iniciativas rurales mediante trabajo comunitario, participación y aportes productivos. 
+
 
     Separador
 
@@ -187,7 +235,68 @@
         p.mb-0 Las funciones, responsabilidades y actividades que asume cada persona dentro de una organización comunitaria o proyecto agropecuario. Estos roles permiten distribuir el trabajo de manera organizada, fortalecer la participación y facilitar el cumplimiento de los objetivos colectivos. Dentro de una organización comunitaria, los integrantes cumplen diferentes funciones relacionadas con la planificación, producción, administración, comercialización, seguimiento y gestión comunitaria. La adecuada distribución de roles favorece el trabajo en equipo, mejora la coordinación de actividades y fortalece el desarrollo organizativo de la comunidad. 
 
     p.mb-5(data-aos="zoom-in-right") Entre los roles más comunes se encuentran:
-
+    
+    .tarjeta.tarjeta--fondo-img-3.py-5.p-4.rounded-3.mb-5(data-aos="zoom-in-right")
+      .row.g-0.align-items-stretch
+        .col-12.col-lg-3.d-flex
+          figure.slyder-c-imagen.w-100
+            img(src='@/assets/curso/tema3/img_13.png', class="img-fluid")
+        .col-12.col-lg-9.ps-lg-5
+          SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4.mb-0.h-100
+            .row.justify-content-center.align-items-center.mb-0
+              .col-10.col-lg-10.mb-3.mb-lg-0
+                h5.mb-4 Líder o representante legal
+                p.mb-0 Representa legalmente a la organización ante entidades públicas y privadas y lidera los procesos comunitarios.
+                ul.lista-ul.mb-0
+                  li
+                    i.lista-ul__vineta Gestiona proyectos, convenios y apoyos institucionales.
+                  li
+                    i.lista-ul__vineta Toma decisiones estratégicas y representa los intereses de la organización.
+            .row.justify-content-center.align-items-center.mb-0
+              .col-10.col-lg-10.mb-3.mb-lg-0
+                h5.mb-4 Junta directiva
+                p.mb-0 Coordina, administra y organiza las actividades para el cumplimiento de los objetivos comunes.
+                ul.lista-ul.mb-0
+                  li
+                    i.lista-ul__vineta Planifica y coordina actividades, reuniones y proyectos.
+                  li
+                    i.lista-ul__vineta Administra recursos y realiza seguimiento a los acuerdos.
+            .row.justify-content-center.align-items-center.mb-0
+              .col-10.col-lg-10.mb-3.mb-lg-0
+                h5.mb-4 Comités de trabajo
+                p.mb-0 Grupos encargados de desarrollar actividades específicas y apoyar el funcionamiento de la organización.
+                ul.lista-ul.mb-0
+                  li
+                    i.lista-ul__vineta Ejecutan actividades y proyectos en áreas específicas.
+                  li
+                    i.lista-ul__vineta Proponen soluciones, identifican necesidades y apoyan la toma de decisiones.
+            .row.justify-content-center.align-items-center.mb-0
+              .col-10.col-lg-10.mb-3.mb-lg-0
+                h5.mb-4 Integrantes o asociados
+                p.mb-0 Son la base de la organización y participan activamente en las decisiones y actividades comunitarias.
+                ul.lista-ul.mb-0
+                  li
+                    i.lista-ul__vineta Participan en reuniones, asambleas y actividades.
+                  li
+                    i.lista-ul__vineta Aportan ideas, trabajo y recursos para el desarrollo de proyectos.
+            .row.justify-content-center.align-items-center.mb-0
+              .col-10.col-lg-10.mb-3.mb-lg-0
+                h5.mb-4 Tesorero(a)
+                p.mb-0 Administra los recursos económicos de la organización de manera responsable y transparente.
+                ul.lista-ul.mb-0
+                  li
+                    i.lista-ul__vineta Maneja los ingresos y egresos y lleva registros contables.
+                  li
+                    i.lista-ul__vineta Presenta informes financieros y garantiza el buen uso de los recursos.
+            .row.justify-content-center.align-items-center.mb-0
+              .col-10.col-lg-10.mb-3.mb-lg-0
+                h5.mb-4 Secretario(a)
+                p.mb-0 Lleva el control de la información, documentación y comunicaciones de la organización.
+                ul.lista-ul.mb-0
+                  li
+                    i.lista-ul__vineta Redacta actas, acuerdos y documentos importantes.
+                  li
+                    i.lista-ul__vineta Mantiene la comunicación interna y externa y organiza archivos y registros.
 </template>
 
 <script>
