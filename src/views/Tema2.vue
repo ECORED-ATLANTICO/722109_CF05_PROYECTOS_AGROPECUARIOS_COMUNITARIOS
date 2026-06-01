@@ -14,7 +14,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Las comunidades campesinas constituyen uno de los actores más importantes del desarrollo rural. Estas comunidades están conformadas por familias y grupos sociales que habitan en territorios rurales y que desarrollan principalmente actividades productivas relacionadas con la agricultura, la ganadería, la pesca artesanal, la recolección de productos naturales y otras prácticas tradicionales.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-9.order-2.order-lg-1.mb-3.mb-lg-0(data-aos="flip-left")
         p.mb-3(data-aos="zoom-in-right") La comunidad campesina no solo representa una unidad económica dedicada a la producción de alimentos, sino también una unidad social y cultural que conserva saberes ancestrales, prácticas productivas sostenibles y formas propias de organización comunitaria. Estas comunidades desempeñan un papel fundamental en la seguridad alimentaria, la conservación de los recursos naturales y el mantenimiento de la diversidad cultural en los territorios rurales.
         p.mb-0(data-aos="zoom-in-right") En el contexto de los proyectos comunitarios, el reconocimiento de las características, dinámicas y necesidades de las comunidades campesinas es fundamental para diseñar estrategias de desarrollo rural que sean participativas, sostenibles y pertinentes con la realidad territorial.
@@ -30,7 +30,7 @@
 
     p.mb-5(data-aos="zoom-in-right") La comunidad campesina puede definirse como un grupo social que habita en zonas rurales y que comparte una identidad cultural, económica y territorial basada en la producción agropecuaria, el trabajo familiar y la relación directa con la tierra y los recursos naturales.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema2/img_3.png', class="img-fluid")
@@ -64,7 +64,7 @@
         figure
           img(src='@/assets/curso/tema2/img_5.png', class="img-fluid")
     
-    .row.justify-content-center.mb-5(data-aos="zoom-in-right")
+    .row.justify-content-center.mb-0(data-aos="zoom-in-right")
       .col-12.col-lg-10
         .row.g-0.align-items-center
           .col-2.col-lg-1.bloque-enlace__icono-col
@@ -82,7 +82,7 @@
     
     p.mb-4(data-aos="zoom-in-right") El contexto político hace referencia al conjunto de relaciones, instituciones, normas y procesos de toma de decisiones que influyen en la vida de las comunidades rurales. En muchos casos, las comunidades campesinas enfrentan desafíos relacionados con el acceso a la tierra, la representación política, la participación en la toma de decisiones y el acceso a programas de desarrollo.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema2/img_6.png', class="img-fluid")
@@ -136,7 +136,7 @@
 
     h5.mb-4(data-aos="zoom-in-right") Entre las principales actividades económicas se encuentran:
 
-    .tarjeta.tarjeta--fondo-img-3.py-5.p-4.rounded-3.mb-5(data-aos="zoom-in-right")
+    .tarjeta.tarjeta--fondo-img-3.py-5.p-4.rounded-3.mb-0(data-aos="zoom-in-right")
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4.mb-0
         .row.justify-content-center.align-items-center.mb-0
           .col-10.col-lg-7.mb-3.mb-lg-0
@@ -239,7 +239,7 @@
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
       h5 Tabla 4.
       |  Componentes de la dimensión ambiental
-    .tabla-a.mb-5(data-aos="flip-left")
+    .tabla-a.mb-0(data-aos="flip-left")
       table
         caption 
           p.mb-0 Nota. SENA, (2026).

@@ -147,7 +147,7 @@
             .col-10.mb-0
               p.mb-0 Son los cambios, logros o beneficios que se esperan alcanzar al finalizar el proyecto. Estos resultados pueden ser productivos, sociales, económicos, ambientales u organizativos.
 
-    p.mb-3(data-aos="zoom-in-right") Un alcance bien definido evita desviaciones y facilita el control y seguimiento.
+    p.mb-0(data-aos="zoom-in-right") Un alcance bien definido evita desviaciones y facilita el control y seguimiento.
 
     Separador
 
@@ -163,7 +163,7 @@
         figure
           img(src='@/assets/curso/tema1/img_9.png', class="img-fluid")
 
-    TabsA.color-secundario.mb-3.uno
+    TabsA.color-secundario.mb-0.uno
       .tarjeta.color-secundario-10.p-5(titulo="Marco lógico")
         .row.justify-content-center.align-items-center.mb-0
           .col-4.col-lg-2.mb-3.mb-lg-0
@@ -328,7 +328,7 @@
           p.mb-0 Una buena gestión contribuye al fortalecimiento organizativo, mejora la toma de decisiones y favorece el cumplimiento de metas orientadas al desarrollo rural sostenible y al bienestar de la comunidad.
         p.mb-4(data-aos="zoom-in-right") Entre los elementos que lo componen tenemos:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-9.order-2.order-lg-1.mb-3.mb-lg-0(data-aos="flip-left")
         TabsA.color-secundario.mb-3.uno
           .tarjeta.color-secundario-10.p-5(titulo="Planificación")
@@ -443,7 +443,7 @@
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
       h5 Tabla 1.
       |  Proceso de evaluación y ajuste de proyectos comunitarios
-    .tabla-a.mb-5(data-aos="flip-left")
+    .tabla-a.mb-0(data-aos="flip-left")
       table
         caption 
           p.mb-0 Nota. SENA, (2026).
@@ -647,7 +647,7 @@
       .subtitulo-destacado__fondo
         h4.subtitulo-destacado__texto Herramientas para la construcción de cronogramas:
 
-    .row.justify-content-center.align-items-start.mb-5
+    .row.justify-content-center.align-items-start.mb-0
       .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema1/img_48.png', class="img-fluid")
@@ -952,7 +952,7 @@
             td.text-start Mecanismos financieros que facilitan acceso a préstamos para proyectos rurales.
             td.text-start Banco Agrario, cooperativas financieras y fondos rotatorios rurales.
 
-    .row.justify-content-center.mb-5(data-aos="zoom-in-right")
+    .row.justify-content-center.mb-0(data-aos="zoom-in-right")
       .col-12.col-lg-10
         .row.g-0.align-items-center
           .col-2.col-lg-1.bloque-enlace__icono-col
@@ -1051,9 +1051,9 @@
             figure.mb-0
               img(src='@/assets/curso/tema1/img_78.png', alt='Equipo de grabación de audio').img-fluid
           .bloque-audio__contenido
-            p.bloque-audio__etiqueta.mb-2 Audio
+            p.bloque-audio__etiqueta.mb-2 XXXXXX
             TarjetaAudio.color-acento-botones.mb-0(
-              texto="<h5 class='bloque-audio__titulo-player mb-0'>Decisiones y rentabilidad digital</h5>"
+              texto="<h5 class='bloque-audio__titulo-player mb-0'>XXXXXX</h5>"
               :audio="require('@/assets/curso/tema1/img_78.png')"
               @audio-hover="mostrarIndicadorTarjetaAudio = true"
             )

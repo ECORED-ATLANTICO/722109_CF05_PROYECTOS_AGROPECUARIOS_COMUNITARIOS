@@ -7,7 +7,7 @@
         span 5
       h1 Fuentes de información
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-9.order-2.order-lg-1.mb-3.mb-lg-0
         .tarjeta.tarjeta--fondo-img-6.py-4.p-5.rounded-3.mb-4(data-aos="zoom-in-right")
           p.mb-0 Las fuentes de información constituyen uno de los elementos fundamentales en los procesos de formulación, ejecución y evaluación de proyectos comunitarios. A través de estas fuentes es posible obtener datos, conocimientos y evidencias que permiten comprender la realidad de una comunidad, identificar problemáticas, analizar oportunidades y diseñar estrategias de intervención adecuadas.
@@ -59,7 +59,7 @@
 
     p.mb-5(data-aos="zoom-in-right") Las fuentes de información pueden clasificarse de diferentes maneras según su origen, su nivel de elaboración o su forma de acceso. En el contexto de los proyectos comunitarios y del desarrollo rural, una clasificación común distingue entre fuentes primarias, secundarias y terciarias.
 
-    .row.justify-content-center.align-items-stretch.mb-5
+    .row.justify-content-center.align-items-stretch.mb-0
       .col-12.col-lg-4.mb-3.mb-lg-0
         .tarjeta.tarjeta-icono-esquina.color-acento-contenido-10.p-4
           .tarjeta-icono-esquina__icono.mb-3

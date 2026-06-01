@@ -7,7 +7,7 @@
         span 3
       h1 Organizaciones comunitarias
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema3/img_1.png', class="img-fluid")
@@ -23,7 +23,7 @@
       .h2(data-aos="fade-right") 3.1 Concepto
     .mb-0 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-9.order-2.order-lg-1.mb-3.mb-lg-0(data-aos="flip-left")
         .row.justify-content-center.align-items-center.mb-5
           .col-3.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
@@ -62,7 +62,7 @@
     
     p.mb-5(data-aos="zoom-in-right") Las organizaciones comunitarias pueden adoptar diferentes formas dependiendo de su estructura, objetivos y ámbito de acción. Entre los tipos más comunes en el contexto rural se encuentran:
 
-    TabsB.color-primario.mb-5
+    TabsB.color-primario.mb-0
       .pt-4.pt-md-5.pb-4.p-5(titulo="Juntas de acción comunal (J.A.C).")
         .row.justify-content-center.align-items-center.mb-5
           .col-3.col-lg-2.mb-3.mb-lg-0
@@ -115,7 +115,7 @@
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
       h5 Tabla 6.
       |  Características de las organizaciones comunitarias
-    .tabla-a.mb-5(data-aos="flip-left")
+    .tabla-a.mb-0(data-aos="flip-left")
       table
         caption 
           p.mb-0 Nota. SENA, (2026).
@@ -173,7 +173,7 @@
 
     p.mb-5(data-aos="zoom-in-right") Generalmente, las organizaciones comunitarias cuentan con los siguientes órganos de dirección:
 
-    TabsA.color-secundario.mb-3.uno
+    TabsA.color-secundario.mb-0.uno
       .tarjeta.color-secundario-10.p-5(titulo="Asamblea general")
         .row.justify-content-center.align-items-center.mb-0
           .col-12.col-lg-12.mb-0

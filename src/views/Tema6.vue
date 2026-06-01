@@ -7,7 +7,7 @@
         span 6
       h1 Plan de acción
 
-    .bloque-texto-g.color-acento-contenido-20.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
+    .bloque-texto-g.color-acento-contenido-20.p-3.p-sm-4.p-md-5.mb-0(data-aos="zoom-in-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema6/img_1.png')})`}"
       )

@@ -42,7 +42,7 @@
       .h2(data-aos="fade-right") 4.2 Tipos 
     .mb-0 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-9.order-2.order-lg-1.mb-3.mb-lg-0(data-aos="flip-left")
         p.mb-3(data-aos="zoom-in-right") En muchos países latinoamericanos se reconocen diferentes tipos de grupos étnicos, los cuales presentan características culturales, sociales y territoriales particulares.
         p.mb-3(data-aos="zoom-in-right") Entre los principales grupos étnicos se encuentran:
@@ -85,7 +85,7 @@
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
       h5 Tabla 7.
       |  Características de los grupos étnicos
-    .tabla-a.mb-5(data-aos="flip-left")
+    .tabla-a.mb-0(data-aos="flip-left")
       table
         caption 
           p.mb-0 Nota. SENA, (2026).
